@@ -1,0 +1,22 @@
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Semana 7\_Calculadora\bin\Debug\_Calculadora.exe.config
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Semana 7\_Calculadora\bin\Debug\_Calculadora.exe
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Semana 7\_Calculadora\bin\Debug\_Calculadora.pdb
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Semana 7\_Calculadora\obj\Debug\_Calculadora.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Semana 7\_Calculadora\obj\Debug\_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Semana 7\_Calculadora\obj\Debug\_Calculadora.Form1.resources
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Semana 7\_Calculadora\obj\Debug\_Calculadora.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Semana 7\_Calculadora\obj\Debug\_Calculadora.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Semana 7\_Calculadora\obj\Debug\_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Semana 7\_Calculadora\obj\Debug\_Calculadora.exe
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Semana 7\_Calculadora\obj\Debug\_Calculadora.pdb
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Practica I, Computo II\_Calculadora\bin\Debug\_Calculadora.exe.config
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Practica I, Computo II\_Calculadora\bin\Debug\_Calculadora.exe
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Practica I, Computo II\_Calculadora\bin\Debug\_Calculadora.pdb
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Practica I, Computo II\_Calculadora\obj\Debug\_Calculadora.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Practica I, Computo II\_Calculadora\obj\Debug\_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Practica I, Computo II\_Calculadora\obj\Debug\_Calculadora.Form1.resources
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Practica I, Computo II\_Calculadora\obj\Debug\_Calculadora.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Practica I, Computo II\_Calculadora\obj\Debug\_Calculadora.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Practica I, Computo II\_Calculadora\obj\Debug\_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Practica I, Computo II\_Calculadora\obj\Debug\_Calculadora.exe
+C:\Users\MINEDUCYT\Desktop\C#\Windows Forms\Practica I, Computo II\_Calculadora\obj\Debug\_Calculadora.pdb
